@@ -1,0 +1,3 @@
+30/9 
+	cuanta pelota hay que darle a los diagramas UML?
+	(Mostrar ejercicio UML)

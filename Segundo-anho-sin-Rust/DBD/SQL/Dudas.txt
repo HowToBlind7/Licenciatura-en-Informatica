@@ -1,0 +1,7 @@
+Ejercicio 1.5
+// Cuando usar a.idAlumno o e.idAlumno en el GROUP BY? No se repiten por igual?
+// Cual es la logica que se debe seguir para prefijar o no prefijar un campo? "Ej. nombre y c.nomre"
+Ejercicio 1.9
+
+Ejercicio 3.2
+Ejercicio 3.8 => Consultar sintaxis del COUNT
